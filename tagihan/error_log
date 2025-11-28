@@ -1,0 +1,8 @@
+[12-Jul-2025 05:36:31 Asia/Jakarta] ISOLATING PPPOE USER: user001 - Reason: Outstanding payment (>1 day overdue)
+[12-Jul-2025 05:36:36 Asia/Jakarta] Cannot connect to Mikrotik: Connection timed out (110)
+[12-Jul-2025 05:36:36 Asia/Jakarta] Cannot connect to Mikrotik for user isolation: user001
+[12-Jul-2025 05:36:36 Asia/Jakarta] Auto-isolated customer: CONTOH PELANGGAN 1 (Username: user001) - 1 day overdue
+[12-Jul-2025 05:36:36 Asia/Jakarta] ISOLATING PPPOE USER: user002 - Reason: Outstanding payment (>1 day overdue)
+[12-Jul-2025 05:36:41 Asia/Jakarta] Cannot connect to Mikrotik: Connection timed out (110)
+[12-Jul-2025 05:36:41 Asia/Jakarta] Cannot connect to Mikrotik for user isolation: user002
+[12-Jul-2025 05:36:41 Asia/Jakarta] Auto-isolated customer: CONTOH PELANGGAN 2 (Username: user002) - 1 day overdue

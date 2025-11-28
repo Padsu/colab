@@ -1,0 +1,127 @@
+/* Gentelella-inspired styles */
+.page-title h1 {
+    font-size: 24px;
+    color: #2A3F54;
+    margin-bottom: 5px;
+}
+
+.page-subtitle {
+    color: #73879C;
+    font-size: 14px;
+}
+
+.card {
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: white;
+    border-bottom: 1px solid #E5E5E5;
+    padding: 15px 20px;
+}
+
+.card-header h6 {
+    font-size: 16px;
+    color: #2A3F54;
+    margin: 0;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table th {
+    border-top: none;
+    color: #73879C;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.btn-primary {
+    background-color: #1ABB9C;
+    border-color: #1ABB9C;
+}
+
+.btn-primary:hover {
+    background-color: #169F85;
+    border-color: #169F85;
+}
+
+.alert {
+    border-left: 4px solid;
+}
+
+.alert-danger {
+    border-left-color: #d73925;
+}
+
+.alert-success {
+    border-left-color: #26B99A;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.empty-state i {
+    font-size: 50px;
+    color: #73879C;
+    margin-bottom: 15px;
+}
+
+.badge {
+    padding: 5px 8px;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.badge-success {
+    background-color: #26B99A;
+}
+
+.badge-danger {
+    background-color: #d73925;
+}
+
+.badge-warning {
+    background-color: #e08e0b;
+}
+
+.filter-section {
+    background-color: white;
+    padding: 15px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.force-down {
+    margin-top: 28px;
+}
+
+.btn-group-sm .btn {
+    margin-right: 2px;
+}
+
+.btn-group-sm .btn:last-child {
+    margin-right: 0;
+}
+
+.warning-indicator {
+    color: #dc3545;
+    font-size: 10px;
+}
+
+.odp-info {
+    font-size: 11px;
+    line-height: 1.3;
+}
